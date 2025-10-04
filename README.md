@@ -1,4 +1,6 @@
 # LameCalculator
+Built Using Windows Forms App (.NET Framework) 4.7.2 in Microsoft Visual Studio 2022
+
 A regular calculator but with a twist
 
 The Game: Any calculation will get a text prompt. Try to get a positive text prompt.
