@@ -21,4 +21,4 @@ LameCalculator is a Windows Forms application targeting **.NET Framework 4.7.2**
 
 ## Download
 
-You can download the latest version of **LameCalculator** from the [Releases Page]()
+You can download the latest version of **LameCalculator** from the [Releases Page](https://github.com/theKevatron/lame-calculator/releases/tag/v1.0.0)
